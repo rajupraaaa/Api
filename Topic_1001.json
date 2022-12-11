@@ -92,7 +92,7 @@
     {
         "question_seq" : "7",
         "question_body" : "The area of a given farm is 10.7 square metres. Which of the following is closest to the area of the given farm?",
-        "question_image" : "https://mindspark-lang.s3.amazonaws.com/qtypes/images/water_n.png",
+        "question_image" : "",
         "question_type" : "mcq",
         "question_desc" : "",
         "question_options" : "3",
